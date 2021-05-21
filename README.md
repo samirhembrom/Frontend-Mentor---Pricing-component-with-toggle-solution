@@ -16,8 +16,8 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 
 ### Links
 
-- [Solution URL:](https://your-solution-url.com)
-- [Live Site URL:](https://your-live-site-url.com)
+- [Solution URL:](https://github.com/samirhembrom/Frontend-Mentor---Pricing-component-with-toggle-solution)
+- [Live Site URL:](https://frontend-mentor-pricing-component-with-toggle-solution.vercel.app/)
 
 ## My process
 
